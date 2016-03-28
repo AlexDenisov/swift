@@ -27,6 +27,7 @@ from SwiftBuildSupport import (
 REPOSITORIES = {
     'llvm': 'apple/swift-llvm',
     'clang': 'apple/swift-clang',
+    'llvm/tools/clang': 'apple/swift-clang',
     'swift': 'apple/swift-swift',
     'lldb': 'apple/swift-lldb',
     'cmark': 'apple/swift-cmark',
